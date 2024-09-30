@@ -3,9 +3,9 @@
 <p align="left">.
 💻 I have a passion for problem-solving. The moments when I’m stuck, pushing through challenges, and eventually finding a solution. That sense of achievement is something I truly enjoy.
 </p>
-<h3 align="left">.
+<p align="left">.
 📚 Beyond coding, I enjoy reading about technology trends and exploring new programming concepts. Let's connect and collaborate on exciting projects together!
-</h3>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibbarua-art&label=Profile%20views&color=0e75b6&style=flat" alt="sajibbarua-art" /> </p>
 
@@ -28,6 +28,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajibbarua-art&show_icons=true&locale=en&layout=compact" alt="sajibbarua-art" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajibbarua-art&show_icons=true&locale=en" alt="sajibbarua-art" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sajibbarua-art&show_icons=true&locale=en" alt="sajibbarua-art" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajibbarua-art&" alt="sajibbarua-art" /></p>
